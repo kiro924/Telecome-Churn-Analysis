@@ -9,6 +9,7 @@ Open the `Telecom_Churn_Analysis.xlsx` file to explore dashboards, charts, and p
 ## Key KPIs
 - Total Customers
 - Churn Rate
+- Retention Rate
 - Top Churn Segment
 - Avg Revenue Per Customer
 - CLTV
